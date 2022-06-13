@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
   int x = 1;
   x = func(x);
-  y = func(x + 12);
+  int y = func(x + 12);
   x = guess_number(x, y);
   printf("Hello, World!\n"); 
   return 0;
