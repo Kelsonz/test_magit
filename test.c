@@ -3,7 +3,7 @@
 /* 你好世界 */
 
 int func(int x);
-int guess_number(int x, int y);
+int guess_number(int x,int y);
 
 int main(int argc, char *argv[])
 {
